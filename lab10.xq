@@ -65,7 +65,7 @@ return
 
 
 (: Zad 11 :)
-(: a) :)
+(: a :)
 <DataOnTheWeb>
 {doc("db/bib/bib.xml")//book[title = "Data on the Web"]}
 </DataOnTheWeb>
